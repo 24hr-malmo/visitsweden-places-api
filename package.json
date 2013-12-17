@@ -1,6 +1,6 @@
 {
   "name": "visitsweden-places-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interact with VisitSweden's Places of Sweden API",
   "main": "index.js",
   "scripts": {
