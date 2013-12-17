@@ -1,0 +1,27 @@
+{
+  "name": "visitsweden-places-api",
+  "version": "1.0.0",
+  "description": "Interact with VisitSweden's Places of Sweden API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/24hr-malmo/visitsweden-places-api.git"
+  },
+  "keywords": [
+    "api",
+    "Places of Sweden",
+    "VisitSweden"
+  ],
+  "dependencies": {
+    "request": ">= 2.x.x",
+    "qs": ">= 0.6.x"
+  },
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "author": "Jens Nilsson <jens@jensnilsson.nu>",
+  "license": "MIT"
+}
