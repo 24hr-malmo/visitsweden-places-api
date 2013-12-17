@@ -29,7 +29,7 @@ Simple usage example:
 	
 	// get place with id XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 	var params = {};
-	var id = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"";
+	var id = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX";
 
 	client.getPlace(id, params, function(err, json){
 		
